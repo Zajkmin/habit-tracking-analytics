@@ -2,8 +2,8 @@
 
 Proyecto para analizar hábitos diarios, KPIs de cumplimiento y desempeño, comparativas mensuales/anuales y progreso visual.
 
-![Dashboard](screenshots/dashboard.png)
-![Interfaz Diaria](screenshots/interfaz.png)
+![Dashboard](Screenshots/dashboard.png)
+![Interfaz Diaria](Screenshots/interfaz.png)
 
 ## Cómo usar
 
