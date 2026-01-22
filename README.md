@@ -1,37 +1,22 @@
 # Habit Tracking Analytics
 
-Proyecto de análisis de datos basado en el seguimiento diario de hábitos.
+Proyecto para analizar hábitos diarios, KPIs de cumplimiento y desempeño, comparativas mensuales/anuales y progreso visual.
 
-## Objetivo
-Diseñar un sistema automatizado de registro, almacenamiento y análisis de hábitos diarios
-para evaluar consistencia, tendencias temporales y evolución del cumplimiento.
+![Dashboard](screenshots/dashboard.png)
+![Interfaz Diaria](screenshots/interfaz.png)
 
-## Dataset
-Los datos se generan diariamente a partir de una interfaz de usuario.
-Cada día se registra un estado (cumplido / no cumplido) para cada hábito.
+## Cómo usar
 
-Estructura principal:
-- Fecha
-- ID_Hábito
-- Cumplimiento (SI / NO)
+1. Subir el archivo a Google Sheets o Excel.
+2. Para Google Sheets: Extensiones → Apps Script → pegar `codigo_AppScript.gs`.
+3. Para Excel: habilitar macros y pegar `codigo_ScriptExcel`.
+4. Agregar hábitos en la hoja **Interfaz Diaria**.
+5. Presionar el botón **Registrar Día** al final del día.
 
-## Proceso
-1. Registro diario mediante interfaz (Google Sheets / Excel)
-2. Automatización de carga de datos
-3. Cálculos agregados y métricas
-4. Visualización en dashboard
+## Métricas principales
 
-## Métricas analizadas
-- Porcentaje de cumplimiento diario
-- Hábitos más y menos consistentes
-- Tendencias por día de la semana
-- Comparación mensual
-- Evolución acumulada
-
-## Herramientas
-- Excel
-- Google Sheets
-- Google Apps Script
-
-## Estado
-Proyecto en evolución. Los datos se actualizan diariamente.
+- Porcentaje de cumplimiento / no cumplimiento (KPI)
+- Hábitos con mejor/peor desempeño
+- Días que más se cumplen hábitos
+- Comparativa mensual y anual
+- Línea de progreso acumulada
