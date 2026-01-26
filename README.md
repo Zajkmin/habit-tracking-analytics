@@ -2,8 +2,11 @@
 
 Proyecto para analizar hábitos diarios, KPIs de cumplimiento y desempeño, comparativas mensuales/anuales y progreso visual.
 
-![Dashboard](Screenshots/Dashboard.png)
 ![Interfaz Diaria](Screenshots/Interfaz.png)
+~Interfaz gráfica automatizada con Script~
+![Análisis Mensual](Screenshots/Analisis_Mensual.png)
+~Headmap Mensual Interactivo~
+![Dashboard](Screenshots/Dashboard.png)
 
 ## Cómo usar
 
@@ -17,7 +20,7 @@ Proyecto para analizar hábitos diarios, KPIs de cumplimiento y desempeño, comp
 ## Responde a las preguntas
 - ¿Cumplo o no cumplo?
 - ¿Estoy mejorando o empeorando en el tiempo?
-- ¿Qué hábitos son el cuello de botella?
+- ¿Cuáles son los mejores hábitos que tengo y cuáles los peores?
 
 ## Métricas principales
 - % de cumplimiento
