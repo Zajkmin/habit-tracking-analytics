@@ -25,6 +25,5 @@ Proyecto para analizar hábitos diarios, KPIs de cumplimiento y desempeño, comp
 ## Métricas principales
 - % de cumplimiento
 - Cantidad de días cumplidos
-- Racha máxima
 - Promedio de cumplimiento por hábito
-- Tendencia mensual (sube / baja / estable)
+- Tendencia mensual 
